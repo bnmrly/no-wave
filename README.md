@@ -1,3 +1,5 @@
 # no-wave
 
-This is inspired by the late 70s / early 80s downtown New York art and music scene. Just having fun with black and white.
+Experimenting with white on black, inspired by the 70s New York downtown No Wave post-punk scene and the work of the painter<a hef="http://basquiat.com/"Jean Michel Basquiat</a>.
+
+09/10/17 Will use JavaScript to show, hide. move words etc.
