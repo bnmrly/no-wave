@@ -1,5 +1,5 @@
 * {
-  color: white;
+  /*color: white;*/
   font-family: "Courier New", Courier, "Lucida Sans Typewriter", "Lucida Typewriter", monospace;
   font-weight: lighter;
 }
@@ -11,7 +11,6 @@ p {
   /*vertical centering*/
 }
 
-
 .container {
   max-width: 1100px;
   margin-right: auto;
@@ -22,68 +21,4 @@ p {
   display: grid;
   grid-template-columns: 25% 25% 25% 25%;
   grid-template-rows: 25% 25% 25% 25%;
-}
-
-#german {
-  background-color: pink;
-}
-
-#english {
-  background-color: Violet;
-}
-
-#french {
-  background-color: Brown;
-}
-
-#spanish {
-  background-color: Red;
-}
-
-#dutch {
-  background-color: Gold;
-}
-
-#italian {
-  background-color: SlateGray;
-}
-
-#polish {
-  background-color: Aqua;
-}
-
-#swedish {
-  background-color: SkyBlue;
-}
-
-#esperanto {
-  background-color: PaleGreen;
-}
-
-#latin {
-  background-color: DarkGoldenRod;
-}
-
-#portugese {
-  background-color: FireBrick;
-}
-
-#welsh {
-  background-color: DarkOrange;
-}
-
-#catalan {
-  background-color: Salmon;
-}
-
-#lithuanian {
-  background-color: MediumPurple;
-}
-
-#czech {
-  background-color: PaleVioletRed;
-}
-
-#icelandic {
-  background-color: Orchid;
 }
