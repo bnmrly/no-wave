@@ -1,11 +1,34 @@
-// Displays font white on onmouseover and black onmouseleave for #spanish
+// Shows ALL elements as white on mouseover and black on mo
 
-document.getElementById("spanish").onmouseover = function () { mouseOver()}
+// return an array called whitened of the elements with the class of language
 
-function mouseOver () {
-  document.getElementById("spanish").style.color="white";
-}
+var whitened = document.getElementsByClassName("language");
 
-document.getElementById("spanish").onmouseleave = function () { mouseLeave()}
-function mouseLeave () {document.getElementById("spanish").style.color="black";
+ // Create a function that loops through the array and 'whitens' all of the array elements
+
+var displayWhite = function () {
+  for (var i = 0; i < whitened.length; i++) {
+   whitened[i].style.color= 'white';
+  }
  }
+
+ // call the function
+
+ displayWhite ();
+
+ // return an array called blackened of the elements with the class of language
+
+ var blackened = document.getElementsByClassName("language");
+
+
+  // Create a function that loops through the array and 'blackens' all of the array elements
+
+  var displayBlack = function () {
+    for (var i = 0; i < blackened.length; i++) {
+     blackened[i].style.color= 'black';
+    }
+   }
+
+    // call the function
+
+    displayBlack ();
