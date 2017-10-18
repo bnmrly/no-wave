@@ -1,4 +1,4 @@
-// Shows ALL elements as white on mouseover and black on mo
+// Shows ALL elements as white on mouseover and black onmouseover
 
 // return an array called whitened of the elements with the class of language
 
