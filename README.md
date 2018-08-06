@@ -1,3 +1,3 @@
 # no-wave
 
-Experimenting with white on black, using JavaScript to display words onmouseover when active.
+Dom Mouseover experiment built using CSS Grid and vanilla JavaScript - displays words onmouseover when active.
